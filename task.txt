@@ -1,0 +1,3 @@
+Employee table
+
+Id , name , salary , email , phone , designation
