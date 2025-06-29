@@ -1,3 +1,8 @@
 Employee table
 
 Id , name , salary , email , phone , designation
+
+
+Audio task 
+
+sr no , Singer name , singer image , song name , audio
